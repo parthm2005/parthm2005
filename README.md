@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: ([https://www.linkedin.com/in/parth-modi-26208928a/])
+- LinkedIn: ([LinkedIn Profile](https://www.linkedin.com/in/parth-modi-26208928a/))
 - Portfolio: 
 
 ---

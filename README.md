@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: ([add link](https://www.linkedin.com/in/parth-modi-26208928a/))
-- Portfolio: (if any)
+- LinkedIn: ([https://www.linkedin.com/in/parth-modi-26208928a/])
+- Portfolio: 
 
 ---
 ⭐ *“Code. Optimize. Scale. Repeat.”*

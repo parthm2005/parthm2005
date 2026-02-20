@@ -91,11 +91,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 What I'm Working On
-- Building intelligent and automation-based systems  
-- Competitive programming & problem solving  
-
----
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Modi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-modi-26208928a/)

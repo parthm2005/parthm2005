@@ -97,4 +97,7 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Gmail-Parth%20Modi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmodi1307@gmail.com)
 ---
-⭐ *“Code. Optimize. Scale. Repeat.”*
+
+<p align="center">
+⭐ <i>Code. Optimize. Scale. Repeat.</i>
+</p>

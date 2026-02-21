@@ -114,9 +114,9 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthm2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Parth Modi's Github stats" />
-  &nbsp&nbsp
-  <img height="165" src="https://streak-stats.demolab.com?user=parthm2005&theme=tokyonight&hide_border=true" alt="Parth's Github Streak" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthm2005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=stars,issues&card_width=480" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=parthm2005&theme=tokyonight&card_width=480" />
 </p>
 <p align="center">
   <!-- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthm2005&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" /> -->

@@ -18,16 +18,32 @@ Here are some ideas to get you started:
 , I'm Parth Modi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Developer;Autonomous+Product+Developer;Problem+Solver;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Developer;Autonomous+Product+Developer;Problem+Solver;System+Design+Enthusiast;B.Tech+CSE+@+SVNIT" />
 </p>
 
 ---
 
-🚀 I build scalable backend systems and intelligent applications.  
+## 👨‍💻 About Me
+
+### 📌 Professional Summary
+
+| Category | Details |
+|----------|----------|
+| 🎓 Education | B.Tech CSE @ SVNIT'27 |
+| 💻 Core Skills | Data Structures, Algorithms, System Design |
+| 🛠 Languages | C++, Java, Python, JavaScript |
+| ⚙ Backend | Node.js, REST APIs, Authentication, Scalable Systems |
+| 🎨 Frontend | React.js, React Native, Tailwind CSS |
+| 🗄 Databases | MongoDB, MySQL |
+| 🧠 Interests | Distributed Systems, Backend Engineering, Optimization |
+| 🏆 Competitive Programming | Active on Codeforces & CodeChef |
+| 🤖 Notable Work | Vision-based Autonomous Navigation System |
+
+<!--🚀 I build scalable backend systems and intelligent applications.  
 💡 Strong foundation in Data Structures & Algorithms with a focus on performance and clean architecture.  
 🧠 Interested in System Design, Backend Engineering, and Optimization.  
 🤖 Worked on vision-based autonomous navigation systems.
-
+-->
 ---
 
 ### 🛠 Tech Stack
@@ -46,8 +62,13 @@ Here are some ideas to get you started:
 </p>  
 
 **Frontend:** 
-<p align="left">
+<!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" hspace="18"/>  
+</p> -->
+<p align="left">
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" hspace="18"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" hspace="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </p>
 
 **Databases:** 
@@ -88,9 +109,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthm2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Parth Modi's Github stats" />
+  &nbsp&nbsp
+  <img height="165" src="https://streak-stats.demolab.com?user=parthm2005&theme=tokyonight&hide_border=true" alt="Parth's Github Streak" />
+</p>
+<p align="center">
+  <!-- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthm2005&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" /> -->
+</p>
+
+---
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Modi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-modi-26208928a/)

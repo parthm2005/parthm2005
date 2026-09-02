@@ -118,6 +118,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <img height="165" src="https://streak-stats.demolab.com?user=parthm2005&theme=tokyonight&card_width=480" />
 </p>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthm2005&layout=compact&theme=tokyonight&hide_border=true&include_forks=true" />
 </p>

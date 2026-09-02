@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 | Category | Details |
 |----------|----------|
 | 🎓 Education | B.Tech CSE @ SVNIT'27 |
-| 💻 Core Skills | Data Structures, Algorithms, System Design |
+| 💻 Core Skills | Data Structures, Algorithms |
 | 🛠 Languages | C++, Java, Python, JavaScript |
 | ⚙ Backend | Node.js, REST APIs, Authentication, Scalable Systems |
-| 🎨 Frontend | React.js, React Native, Tailwind CSS |
+| 🎨 Frontend | React.js, Tailwind CSS |
 | 🗄 Databases | MongoDB, MySQL |
 | 🧠 Interests | Distributed Systems, Backend Engineering, Optimization |
 | 🏆 Competitive Programming | Active on Codeforces & CodeChef |
@@ -114,13 +114,13 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthm2005&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars,issues&card_width=480" />
+  <img src="https://github-stats-extended.vercel.app/api?username=parthm2005&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=stars,issues" width="430" alt="Parth's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=parthm2005&theme=tokyonight&card_width=480" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthm2005&theme=dark" width="430" alt="Parth's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthm2005&layout=compact&theme=tokyonight&hide_border=true&include_forks=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=parthm2005&layout=compact&theme=dark&hide=html,css,jupyter%20notebook" width="380" alt="Top Languages" />
 </p>
 
 ---
